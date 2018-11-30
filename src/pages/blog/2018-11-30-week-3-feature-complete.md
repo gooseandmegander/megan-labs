@@ -1,7 +1,7 @@
 ---
 templateKey: 'blog-post'
 title: 'Week 3 Recap'
-date: 2018-11-15T15:04:10.000Z
+date: 2018-11-30T15:04:10.000Z
 description: >-
   The Road to Feature Complete
 tags:
