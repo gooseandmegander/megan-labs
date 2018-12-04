@@ -14,6 +14,10 @@ attachments:
 ![](../../img/Screen Shot 2018-11-30 at 7.20.56 AM.png)
 @gooseandmegander
 
+# Whiteboarding video
+
+[Whiteboarding with Patrick Thompson](https://youtu.be/DaYIJNi3OSY)
+
 # Part 1 - Individual Accomplishments this Week
 <!-- Provide a paragraph (5-8 sentences) summarizing the work you did this week, the challenges you faced, the tools you used, and your accomplishments -->
 I mainly worked on two larger tasks this week, the training deck functionality and the cardlist view. Oddly enough, I felt like a lot of my time and energy this week was spent evaluating our progress and divvying out tasks for my other team members, and that is also where most of the week's challenges stem. There were a few times where I or Keith would assign a task to someone, and they did something else entirely different. This caused some of our bottleneck problems to get worse to the point where we were scrambling Thursday (and today) to get MVP.
