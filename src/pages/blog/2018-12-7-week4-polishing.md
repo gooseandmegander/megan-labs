@@ -57,6 +57,8 @@ Ticket 4
 Pricing Page UI
 
 _Pricing.js_
+
+![](../../img/image.png)
 ![](../../img/Screen Shot 2018-12-07 at 10.23.52 AM.png)
 ![](../../img/Screen Shot 2018-12-07 at 10.24.09 AM.png)
 
